@@ -1,0 +1,8 @@
+C:\Users\Francisco\source\repos\tarealibro\bin\Debug\tarealibro.exe.config
+C:\Users\Francisco\source\repos\tarealibro\bin\Debug\tarealibro.exe
+C:\Users\Francisco\source\repos\tarealibro\bin\Debug\tarealibro.pdb
+C:\Users\Francisco\source\repos\tarealibro\obj\Debug\tarealibro.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\tarealibro\obj\Debug\tarealibro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\source\repos\tarealibro\obj\Debug\tarealibro.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\tarealibro\obj\Debug\tarealibro.exe
+C:\Users\Francisco\source\repos\tarealibro\obj\Debug\tarealibro.pdb
